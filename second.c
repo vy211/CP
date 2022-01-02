@@ -2,4 +2,5 @@
 int main()
 {
 printf("jey");
+return 0;
 }
